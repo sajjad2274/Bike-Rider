@@ -1,0 +1,11 @@
+
+
+Keyboard controls:
+
+W = Move forward (Throttle)
+S =   Brake
+A = Move Left
+D = Move Right    
+Escape = Pause   
+Left Shift = Wheelie
+Space = Horn

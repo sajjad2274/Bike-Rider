@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1c101dd7fd182b24aa31687e3f734e89
+timeCreated: 1490771248
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Typo College LC Demo
+  fontNames:
+  - Typo College LC Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

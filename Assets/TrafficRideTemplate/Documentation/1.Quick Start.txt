@@ -1,0 +1,33 @@
+
+Hi
+
+please rate this app on asset store:
+https://www.assetstore.unity3d.com/en/#!/content/86956
+
+follow updates (ask question or new features):
+https://forum.unity3d.com/threads/game-template-traffic-ride-template-released.472263/#post-3085845
+
+
+1. How to integrate unity ads?
+Find UnityAdsIntegration.zip in project files and unzip script. then open Garage scene 
+and find UnityAds game object in hierarchy and drag UnityAdsIntegration.cs to missing script on the inspector
+
+2. How to reskin the game template?
+Watch video tutorials on my youtube channel to learn how to create a new game easily with your custom models and bikes
+
+3. Can i publish directly to store?
+yes, but this template uploaded before via some customers
+
+4. Did you published your own?
+No. Maybe i have create a new one with new models and only upload it into google play only. I don't have mac os
+
+5. how can i found more games from you?
+https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:23606
+
+
+
+contact me:
+aliyeredon@gmail.com
+
+New bike models:
+https://www.assetstore.unity3d.com/en/#!/content/87150
